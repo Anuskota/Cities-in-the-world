@@ -1,3 +1,11 @@
+* {
+    margin: 0;
+}
+body{
+
+    background-color: rgb(190, 196, 155);
+}
+
 /*Barra de navegacion*/
 
 .navbar{
@@ -20,4 +28,47 @@ border: 2px solid black;
 
 }
 /*Aqueducto*/
+/*Cards*/
 
+.card{
+   
+    position: relative;
+
+}
+
+.recient-card{
+    padding: 40px;
+
+}
+
+.recient-card img{
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    border-radius: 15px;
+    display: block;
+    transition: all 0.2s ease;
+}
+.img-container{
+    padding-top: 60px;
+    margin-bottom: 40px;
+}
+
+
+.card:hover img{
+    opacity: 0.5;
+}
+
+
+.card:hover .overlay{
+
+    opacity: 1;
+}
+
+.btn {
+    align-items: right;
+}
+.about-segovia{
+    height: 100px;
+    padding: 10px;
+}
