@@ -1,0 +1,23 @@
+/*Barra de navegacion*/
+
+.navbar{
+    height: 150px;
+padding: 2rm;
+background-color:rgb(190, 196, 155);
+border: 2px solid black;
+}
+
+.navbar-collapse{
+
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-brand{
+    margin-left: 30px;
+}
+.navbar-nav{
+    margin-right:30px
+
+}
+/*Aqueducto*/
+
