@@ -85,6 +85,9 @@ border: 2px solid black;
 }
 .list-group-item  p{
     text-align: center;
+    font-weight: bold;
+    margin-top: -25px;
+    
 }
 .list-group{
     margin-top: 65px;
@@ -95,4 +98,24 @@ border: 2px solid black;
 .list-group-title{
     text-align: center;
 }
+.row-card{
+    margin-left: 50px;
 
+}
+
+.card-img-top{
+    background-color: rgb(190, 196, 155);
+    
+}
+.card-background{
+   background-color:  rgb(190, 196, 155);
+   border: none;
+
+   height: 100px;
+    width: 150px;
+    margin: 10px 10px 20px 20px; 
+}
+.card-body h5{
+    margin-left: 20px;
+
+}
