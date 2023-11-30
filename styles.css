@@ -73,3 +73,26 @@ border: 2px solid black;
     height: 100px;
     padding: 10px;
 }
+.list-group-item{
+    background-color:antiquewhite;
+    
+ 
+}
+
+.list-group-item img{
+    padding: 0;
+ 
+}
+.list-group-item  p{
+    text-align: center;
+}
+.list-group{
+    margin-top: 65px;
+    padding-bottom: -20px;
+    border: 2px solid black;
+}
+
+.list-group-title{
+    text-align: center;
+}
+
